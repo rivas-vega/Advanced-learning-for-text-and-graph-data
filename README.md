@@ -1,2 +1,1 @@
-# HelloGitHub
-First approach to github
+# Advanced learning for text and graph data 
