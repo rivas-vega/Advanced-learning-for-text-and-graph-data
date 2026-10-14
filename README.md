@@ -42,8 +42,6 @@ pip install jupyterlab
 
 ## 👤 Author
 
-**Pedro Rivas Vega**  
-*Master M2 MVA (Mathématiques, Vision, Apprentissage), ENS Paris-Saclay*  
-*B.S. in Mathematics, Universidad de Sevilla*  
-- GitHub: [@rivas-vega](https://github.com/rivas-vega)
-- Contact: [pedrorivasvega@gmail.com](mailto:pedrorivasvega@gmail.com)
+**Pedro** ([@rivas-vega](https://github.com/rivas-vega))  
+*Master M2 MVA, ENS Paris-Saclay*  
+*B.S. in Mathematics, Universidad de Sevilla*
